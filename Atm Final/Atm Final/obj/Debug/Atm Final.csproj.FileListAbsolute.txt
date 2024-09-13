@@ -1,0 +1,14 @@
+D:\vs projeler\Atm Final\Atm Final\bin\Debug\Atm Final.exe.config
+D:\vs projeler\Atm Final\Atm Final\bin\Debug\Atm Final.exe
+D:\vs projeler\Atm Final\Atm Final\bin\Debug\Atm Final.pdb
+D:\vs projeler\Atm Final\Atm Final\obj\Debug\Atm Final.csproj.AssemblyReference.cache
+D:\vs projeler\Atm Final\Atm Final\obj\Debug\Atm Final.csproj.CoreCompileInputs.cache
+D:\vs projeler\Atm Final\Atm Final\obj\Debug\Atm Final.exe
+D:\vs projeler\Atm Final\Atm Final\obj\Debug\Atm Final.pdb
+D:\vs yaptığım ödevler\Atm Final\Atm Final\bin\Debug\Atm Final.exe.config
+D:\vs yaptığım ödevler\Atm Final\Atm Final\bin\Debug\Atm Final.exe
+D:\vs yaptığım ödevler\Atm Final\Atm Final\bin\Debug\Atm Final.pdb
+D:\vs yaptığım ödevler\Atm Final\Atm Final\obj\Debug\Atm Final.csproj.AssemblyReference.cache
+D:\vs yaptığım ödevler\Atm Final\Atm Final\obj\Debug\Atm Final.csproj.CoreCompileInputs.cache
+D:\vs yaptığım ödevler\Atm Final\Atm Final\obj\Debug\Atm Final.exe
+D:\vs yaptığım ödevler\Atm Final\Atm Final\obj\Debug\Atm Final.pdb
